@@ -81,5 +81,5 @@ public class CharaGridRenderer : MonoBehaviour
     const int MAX_Y_POSITION = 400;
 
     const int MIN_CHARA_ID = 0;
-    const int MAX_CHARA_ID = 31;
+    const int MAX_CHARA_ID = 32;
 }
