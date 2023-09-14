@@ -17,7 +17,7 @@ public class P3_UserDataManager : UserDataManager
         NUM
     };
 
-    protected int userId = 0;
+    int userId = 0;
 
     new protected void Awake()
     {
